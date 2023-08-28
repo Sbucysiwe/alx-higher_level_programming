@@ -2,7 +2,7 @@
 
 
 def list_division(my_list_1, my_list_2, list_length):
-    """Element by element, Divides two lists.
+    """Divides two lists element by element.
     Args:
         my_list_1 (list): first list.
         my_list_2 (list): second list.
