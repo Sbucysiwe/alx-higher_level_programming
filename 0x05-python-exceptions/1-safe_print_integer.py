@@ -1,6 +1,3 @@
-&sp=CAASBggFEAEoAQ%253D%253D
-&sp=EgQQASgB
-
 #!/usr/bin/python3
 
 
